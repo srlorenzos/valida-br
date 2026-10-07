@@ -1,5 +1,7 @@
 # valida-br
 
+[![testes](https://github.com/srlorenzos/valida-br/actions/workflows/test.yml/badge.svg)](https://github.com/srlorenzos/valida-br/actions/workflows/test.yml) ![zero dependências](https://img.shields.io/badge/depend%C3%AAncias-0-brightgreen) ![licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-blue)
+
 Valida e formata **CPF, CNPJ, CEP e telefone** brasileiros. Já suporta o **CNPJ alfanumérico** que a Receita Federal começou a emitir em julho de 2026 (ex.: `12.ABC.345/01DE-35`). Zero dependências, funciona no Node 18+ e no navegador.
 
 ```js
