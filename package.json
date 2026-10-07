@@ -1,0 +1,14 @@
+{
+  "name": "valida-br",
+  "version": "1.0.0",
+  "description": "Valida e formata CPF, CNPJ (inclusive o alfanumérico de 2026), CEP e telefone brasileiros. Zero dependências.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "files": ["src"],
+  "scripts": { "test": "node --test" },
+  "keywords": ["cpf", "cnpj", "cnpj-alfanumerico", "cep", "telefone", "brasil", "validacao"],
+  "author": "Eduardo Lorenzo (https://github.com/srlorenzos)",
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
